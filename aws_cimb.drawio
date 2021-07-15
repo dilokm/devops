@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-15T03:27:16.357Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Z8pDg1WP7NcCF-YOzhuF" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-15T04:07:37.188Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="SObk1Sq44MokR-u1_ihR" version="14.8.6" type="github">
   <diagram id="4h9Jgz2YyqiB8rUjbs18" name="Page-1">
     <mxGraphModel dx="946" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -172,6 +172,25 @@
         </mxCell>
         <mxCell id="44BmXgB-hYXjfOnaE24B-9" value="store fundconnext files" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="833.19" y="530" width="128.62" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="44BmXgB-hYXjfOnaE24B-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="818.8799999999999" y="810" width="157.25" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="44BmXgB-hYXjfOnaE24B-10" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.elasticache;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="868.5" y="837" width="56.25" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="44BmXgB-hYXjfOnaE24B-14" value="" style="endArrow=classic;html=1;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="44BmXgB-hYXjfOnaE24B-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="751.5" as="sourcePoint" />
+            <mxPoint x="790" y="751.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="790" y="752" />
+              <mxPoint x="790" y="875" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="44BmXgB-hYXjfOnaE24B-18" value="ElastiCache" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="863.76" y="910" width="72.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
