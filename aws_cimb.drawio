@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-15T02:46:38.171Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="GCyUKxT70pYfTUCjOYHf" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-15T03:27:16.357Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Z8pDg1WP7NcCF-YOzhuF" version="14.8.6" type="github">
   <diagram id="4h9Jgz2YyqiB8rUjbs18" name="Page-1">
     <mxGraphModel dx="946" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -107,8 +107,8 @@
         <mxCell id="yYsFPrWsCkC2h6r3MeOf-77" value="AWS SERVICE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="169.5" y="1000" width="130.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yYsFPrWsCkC2h6r3MeOf-78" value="NLB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="475.25" y="300" width="40" height="20" as="geometry" />
+        <mxCell id="yYsFPrWsCkC2h6r3MeOf-78" value="ALB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="530" y="300" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yYsFPrWsCkC2h6r3MeOf-79" value="EKS&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="261.5" y="570" width="40" height="20" as="geometry" />
